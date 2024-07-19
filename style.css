@@ -1,0 +1,18 @@
+div {
+    border: 1px solid #CCCCCC;
+    width: 232px;
+    height: 297px;
+    overflow: scroll;
+    padding-top: 9px;
+    padding-left: 8px;
+}
+@font-face {
+    font-family: chemi fonti;
+    src: url("fonti/Inter-VariableFont_slnt\,wght.ttf");
+}
+p {
+    font-family: chemi fonti;
+    font-size: 12px;
+    width: 400px;
+    color: #000000;
+}
